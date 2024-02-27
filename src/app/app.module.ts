@@ -21,6 +21,7 @@ import { LoginComponent } from './login/login.component';
 import { TokenInterceptorInterceptor } from './services/token-interceptor.interceptor';
 import {MatToolbarModule} from '@angular/material/toolbar';
 
+
 const ngxUiLoaderConfig: NgxUiLoaderConfig = {
   text:"Loading...",
   textColor:"#FFFFFF",
